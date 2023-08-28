@@ -1,0 +1,29 @@
+/* Encabezado */
+.header {
+    background-color: #b2d4f7; /* Fondo */
+    color: #007bff; /* letras */
+    text-align: center;
+    padding: 15px;
+}
+.container{
+    width: 400px; /* ancho */
+    height: 350; /* alto */
+    margin: 30px; /* margen */
+    border: 2px solid #808080; /* borde */
+    padding: 20px; /* espacio interno */
+    background-color: rgb(220, 220, 220);
+}
+
+.input-container {
+    margin-left: 50px; 
+    color: blue;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.result-container {
+    margin-left: 50px; 
+    color: blue;
+    font-weight: bold;
+    font-size: 20px;
+}
